@@ -4,7 +4,6 @@ import Image from 'next/image';
 import styles from '../styles/Home.module.css';
 
 const Home: NextPage = () => {
-  let _args = 22;
   return (
     <div className={styles.container}>
       <Head>
